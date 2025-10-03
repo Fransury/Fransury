@@ -1,6 +1,7 @@
 # 📊 Hola, soy Fransury Henao  
 
-Soy un **Analista de Datos** apasionado por convertir datos en conocimiento accionable. Me encanta trabajar con Python, SQL y herramientas de visualización para generar insights valiosos.
+Profesional con más de 5 años de experiencia en gestión de información financiera y operativa, conciliaciones y control de calidad de datos, actualmente en transición hacia el rol de **Analista de Datos**. Experto en Excel avanzado (tablas dinámicas, fórmulas complejas) y con conocimientos en SQL y herramientas de BI (Tableau, Google Data Studio).  Formación en Python para análisis estadístico y modelado de datos, complementada con proyectos de creación de dashboards interactivos, reportes periódicos y análisis de KPIs. Experiencia en procesamiento, limpieza y visualización de datos para la toma de decisiones estratégicas.  Alta capacidad de análisis, detección de inconsistencias en la información y comunicación de resultados a audiencias no técnicas.
+
 
 ---
 
